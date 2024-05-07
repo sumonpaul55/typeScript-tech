@@ -34,5 +34,5 @@
 
 
     const dog = new Dog("buddy", 5, "white")
-    console.log(dog.name)
+    // console.log(dog.name)
 }
