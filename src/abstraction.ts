@@ -13,12 +13,13 @@
         calculatArea(): number {
             return this.width * this.height
         }
-        const r = new Rectangle(5, 6)
-        
-        console.log(r.calculatArea())
-}
 
 
+
+    }
+
+    const ami = new Rectangle(4, 5)
+    console.log(ami.calculatArea())
 
 
 
